@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-eh_&lsme0(g#0hoowvo_!eap43$3g2v+=ehqo_f6$08i*xabtf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['my-nginx.darkube.app' , 'django.afarahbakhsh7.svc', 'my-nginx.afarahbakhsh7.svc']
 
 
 # Application definition
